@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyczar Aalbregtse</h1>
 <h3 align="center">A passionate frontend developer from Lafayette, IN</h3>
 
-- 🔭 I’m currently working on **Babblebot an educational site to help elementary students learn phonemes.**
+- 🔭 I’m currently working on **an educational site to help elementary students learn phonemes.**
 
 - 🌱 I’m currently learning **React, Firebase, AWS**
 
