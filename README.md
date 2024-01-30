@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, Firebase, AWS**
 
-- 📫 How to reach me **kyczaraalbregtse@gmail.com**
+- 📫 How to reach me: **kyczaraalbregtse@gmail.com**
 
-- ⚡ Fun fact **I was on Dr. Phil!**
+- ⚡ Fun fact: **I was on Dr. Phil!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
