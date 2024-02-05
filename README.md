@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an educational site to help elementary students learn phonemes.**
 
-- 🌱 I’m currently learning **React, Firebase, AWS**
+- 🌱 I’m currently learning **React, Firebase**
 
 - 📫 How to reach me: **kyczaraalbregtse@gmail.com**
 
