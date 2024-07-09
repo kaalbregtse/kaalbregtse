@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **kyczaraalbregtse@gmail.com**
 
-- ⚡ Fun fact: **I was on Dr. Phil!**
-
 <p align="left">
 </p>
 
